@@ -39,7 +39,7 @@ santan@lab:~$ tree ~/stack
 | **Cybersecurity** | TLS-only MQTT, SHA-256 checked OTA with rollback, secrets kept out of git, Wi-Fi and LAN analysis on my own network |
 | **Web Development** | Full-stack apps and APIs with React, Angular, Node.js, Django, Laravel and .NET, backed by PostgreSQL, MySQL, MongoDB or Supabase, shipped with Docker and AWS |
 
-I also build full-stack apps: web apps and APIs with React, Angular, Node.js, Django, Laravel and .NET, backed by PostgreSQL, MySQL, MongoDB or Supabase, and shipped with Docker and AWS.
+I also build full-stack apps: web apps and APIs with React, Angular, Node.js, Django, Laravel and .NET, backed by PostgreSQL, MySQL, MongoDB or Supabase, and shipped with Docker and AWS. |
 ## Projects
 
 | Project | What it is |
