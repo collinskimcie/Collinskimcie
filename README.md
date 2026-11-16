@@ -10,7 +10,7 @@
 santan@lab:~$ cat about.txt
 ```
 
-I'm **Collins**, an embedded systems, full-stack and cybersecurity tinkerer, and a full-stack developer. I write firmware for ESP32-S3 boards and the tools around them. I build devices to survive being poked at, then I poke at them myself, only on hardware and networks I own.
+I'm **Collins**, an embedded systems, full-stack and cybersecurity tinkerer. I write firmware for ESP32-S3 boards and the tools around them. I build devices to survive being poked at, then I poke at them myself, only on hardware and networks I own.
 
 
 
