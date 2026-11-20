@@ -54,6 +54,6 @@ I also build full-stack apps: web apps and APIs with React, Angular, Node.js, Dj
 | Channel | Handle |
 | :-- | :-- |
 | Email | [collinskimutai55109@gmail.com](mailto:collinskimutai55109@gmail.com) |
-| GitHub | [collinskimcie](https://github.com/collinskimcie) |
+| GitHub | [ckimcie](https://github.com/ckimcie) |
 | Instagram | [ckimcie](https://instagram.com/ckimcie) |
 | Whatsapp| [ckimcie](https://wa.me/ckimcie) |
